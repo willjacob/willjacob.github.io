@@ -1,0 +1,45 @@
+body {
+  font-family: 'helvetica neue', arial, sans-serif;
+  font-weight: 300;
+  background-color: #E9E9E9;
+}
+#page {
+	width: 960px;
+	margin: 20px auto;
+	padding: 5px;
+	text-align: left;
+}
+#photo{
+	width: 150px;
+	float: left;
+	margin: auto;
+	height: 300px;
+}
+#aboutme {
+	width: 500px;
+	margin: 10px 10px 10px 350px;
+	min-height: 350px;
+}
+#wrapper {
+  width: 960px;
+  margin: 20px auto;
+}
+#willjacob {
+	width: 300px;
+	border: 3px solid black;
+}
+h1 {
+	color: black;
+	color: #065A84;
+}
+h2 {
+	font-size: 130%;
+	color: #2D6284;
+}
+.emphasis {
+	color: #424242;
+	font-style: italic;
+}
+.gray {
+	color: #424242;
+}
